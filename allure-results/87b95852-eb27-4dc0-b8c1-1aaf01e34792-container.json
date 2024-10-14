@@ -1,0 +1,1 @@
+{"uuid":"87b95852-eb27-4dc0-b8c1-1aaf01e34792","name":"All Test Suite","children":["f870d57d-0e58-4d77-b9b0-94c5f94b4252"],"befores":[{"name":"SetupExtentReports","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728465448852,"stop":1728465449471}],"afters":[],"start":1728465448807,"stop":1728465574532}

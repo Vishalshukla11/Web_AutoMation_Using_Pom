@@ -1,0 +1,96 @@
+2024-10-07 14:59:29 INFO  HomePageTestCase:39 - Starting test execution
+  2024-10-07 14:59:29 INFO  HomePageTestCase:52 - Starting test execution
+  2024-10-07 14:59:29 INFO  HomePageTestCase:40 - Starting test execution
+  2024-10-07 14:59:29 INFO  HomePageTestCase:45 - Starting test execution
+  2024-10-07 14:59:29 INFO  HomePageTestCase:56 - Browser initialized successfully
+  2024-10-07 14:59:29 INFO  HomePageTestCase:45 - Browser initialized successfully
+  2024-10-07 14:59:29 INFO  HomePageTestCase:43 - Browser initialized successfully
+  2024-10-07 14:59:29 INFO  HomePageTestCase:50 - Browser initialized successfully
+  2024-10-07 14:59:41 INFO  HomePageTestCase:53 - Test page title
+  2024-10-07 14:59:42 INFO  HomePageTestCase:55 - Verified sign-in link on Luma home page
+  2024-10-07 14:59:43 INFO  HomePageTestCase:62 - Navigating to WhatsNew
+  2024-10-07 14:59:44 INFO  HomePageTestCase:78 - Successfully navigated to WhatsNew
+  2024-10-07 14:59:44 INFO  HomePageTestCase:62 - Navigating to Women
+  2024-10-07 14:59:47 INFO  HomePageTestCase:78 - Successfully navigated to Women
+  2024-10-07 14:59:47 INFO  HomePageTestCase:62 - Navigating to Men
+  2024-10-07 14:59:50 INFO  HomePageTestCase:78 - Successfully navigated to Men
+  2024-10-07 14:59:51 INFO  HomePageTestCase:62 - Navigating to Gear
+  2024-10-07 14:59:53 INFO  HomePageTestCase:78 - Successfully navigated to Gear
+  2024-10-07 14:59:53 INFO  HomePageTestCase:62 - Navigating to Training
+  2024-10-07 14:59:54 INFO  HomePageTestCase:78 - Successfully navigated to Training
+  2024-10-07 14:59:54 INFO  HomePageTestCase:62 - Navigating to Sale
+  2024-10-07 14:59:56 INFO  HomePageTestCase:78 - Successfully navigated to Sale
+  2024-10-07 14:59:56 INFO  HomePageTestCase:132 - Tearing down the test
+  2024-10-07 14:59:57 INFO  HomePageTestCase:135 - Browser closed
+  2024-10-07 15:02:08 INFO  HomePageTestCase:39 - Starting test execution
+  2024-10-07 15:02:08 INFO  HomePageTestCase:40 - Starting test execution
+  2024-10-07 15:02:08 INFO  HomePageTestCase:45 - Starting test execution
+  2024-10-07 15:02:08 INFO  HomePageTestCase:52 - Starting test execution
+  2024-10-07 15:02:08 INFO  HomePageTestCase:56 - Browser initialized successfully
+  2024-10-07 15:02:08 INFO  HomePageTestCase:50 - Browser initialized successfully
+  2024-10-07 15:02:08 INFO  HomePageTestCase:45 - Browser initialized successfully
+  2024-10-07 15:02:08 INFO  HomePageTestCase:43 - Browser initialized successfully
+  2024-10-07 15:02:16 INFO  HomePageTestCase:53 - Test page title
+  2024-10-07 15:02:19 INFO  HomePageTestCase:64 - Test logo
+  2024-10-07 15:02:21 INFO  HomePageTestCase:55 - Verified sign-in link on Luma home page
+  2024-10-07 15:02:21 INFO  HomePageTestCase:62 - Navigating to WhatsNew
+  2024-10-07 15:02:23 INFO  HomePageTestCase:75 - Test signin page  navigate 
+  2024-10-07 15:02:26 INFO  HomePageTestCase:78 - Successfully navigated to WhatsNew
+  2024-10-07 15:02:26 INFO  HomePageTestCase:62 - Navigating to Women
+  2024-10-07 15:02:27 INFO  HomePageTestCase:83 - Tearing down the test
+  2024-10-07 15:02:30 INFO  HomePageTestCase:78 - Successfully navigated to Women
+  2024-10-07 15:02:33 INFO  HomePageTestCase:86 - Browser closed
+  2024-10-07 15:03:50 INFO  HomePageTestCase:52 - Starting test execution
+  2024-10-07 15:03:50 INFO  HomePageTestCase:39 - Starting test execution
+  2024-10-07 15:03:50 INFO  HomePageTestCase:45 - Starting test execution
+  2024-10-07 15:03:50 INFO  HomePageTestCase:40 - Starting test execution
+  2024-10-07 15:03:50 INFO  HomePageTestCase:56 - Browser initialized successfully
+  2024-10-07 15:03:50 INFO  HomePageTestCase:50 - Browser initialized successfully
+  2024-10-07 15:03:50 INFO  HomePageTestCase:45 - Browser initialized successfully
+  2024-10-07 15:03:50 INFO  HomePageTestCase:43 - Browser initialized successfully
+  2024-10-07 15:04:01 INFO  HomePageTestCase:53 - Test page title
+  2024-10-07 15:04:03 INFO  HomePageTestCase:64 - Test logo
+  2024-10-07 15:04:04 INFO  HomePageTestCase:55 - Verified sign-in link on Luma home page
+  2024-10-07 15:04:04 INFO  HomePageTestCase:62 - Navigating to WhatsNew
+  2024-10-07 15:04:28 INFO  HomePageTestCase:78 - Successfully navigated to WhatsNew
+  2024-10-07 15:04:29 INFO  HomePageTestCase:62 - Navigating to Women
+  2024-10-07 15:04:31 INFO  HomePageTestCase:78 - Successfully navigated to Women
+  2024-10-07 15:04:31 INFO  HomePageTestCase:62 - Navigating to Men
+  2024-10-07 15:04:33 INFO  HomePageTestCase:78 - Successfully navigated to Men
+  2024-10-07 15:04:34 INFO  HomePageTestCase:62 - Navigating to Gear
+  2024-10-07 15:04:36 INFO  HomePageTestCase:78 - Successfully navigated to Gear
+  2024-10-07 15:04:36 INFO  HomePageTestCase:62 - Navigating to Training
+  2024-10-07 15:04:38 INFO  HomePageTestCase:78 - Successfully navigated to Training
+  2024-10-07 15:04:38 INFO  HomePageTestCase:62 - Navigating to Sale
+  2024-10-07 15:04:39 INFO  HomePageTestCase:78 - Successfully navigated to Sale
+  2024-10-07 15:04:39 INFO  HomePageTestCase:132 - Tearing down the test
+  2024-10-07 15:04:41 INFO  HomePageTestCase:135 - Browser closed
+  2024-10-07 15:05:38 INFO  HomePageTestCase:45 - Starting test execution
+  2024-10-07 15:05:38 INFO  HomePageTestCase:39 - Starting test execution
+  2024-10-07 15:05:38 INFO  HomePageTestCase:52 - Starting test execution
+  2024-10-07 15:05:38 INFO  HomePageTestCase:40 - Starting test execution
+  2024-10-07 15:05:39 INFO  HomePageTestCase:45 - Browser initialized successfully
+  2024-10-07 15:05:39 INFO  HomePageTestCase:50 - Browser initialized successfully
+  2024-10-07 15:05:39 INFO  HomePageTestCase:43 - Browser initialized successfully
+  2024-10-07 15:05:39 INFO  HomePageTestCase:56 - Browser initialized successfully
+  2024-10-07 15:05:50 INFO  HomePageTestCase:53 - Test page title
+  2024-10-07 15:05:51 INFO  HomePageTestCase:64 - Test logo
+  2024-10-07 15:05:54 INFO  HomePageTestCase:55 - Verified sign-in link on Luma home page
+  2024-10-07 15:05:54 INFO  HomePageTestCase:62 - Navigating to WhatsNew
+  2024-10-07 15:05:54 INFO  HomePageTestCase:75 - Test signin page  navigate 
+  2024-10-07 15:05:55 INFO  HomePageTestCase:78 - Successfully navigated to WhatsNew
+  2024-10-07 15:05:56 INFO  HomePageTestCase:62 - Navigating to Women
+  2024-10-07 15:05:56 INFO  HomePageTestCase:83 - Tearing down the test
+  2024-10-07 15:06:00 INFO  HomePageTestCase:86 - Browser closed
+  2024-10-07 15:06:23 INFO  HomePageTestCase:40 - Starting test execution
+  2024-10-07 15:06:23 INFO  HomePageTestCase:45 - Browser initialized successfully
+  2024-10-07 15:06:31 INFO  HomePageTestCase:59 - Verify page title
+  2024-10-07 15:06:32 INFO  HomePageTestCase:68 - Verify test create an account button
+  2024-10-07 15:06:32 INFO  HomePageTestCase:77 - Test signin functionality
+  2024-10-07 15:06:35 INFO  HomePageTestCase:93 - Tearing down the test
+  2024-10-07 15:06:38 INFO  HomePageTestCase:96 - Browser closed
+  2024-10-07 15:07:23 INFO  HomePageTestCase:52 - Starting test execution
+  2024-10-07 15:07:24 INFO  HomePageTestCase:56 - Browser initialized successfully
+  2024-10-08 11:51:49 INFO  HomePageTestCase:45 - Starting test execution
+  2024-10-08 11:51:50 INFO  HomePageTestCase:50 - Browser initialized successfully
+  

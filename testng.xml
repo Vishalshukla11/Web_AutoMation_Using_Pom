@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/acer/Desktop/java/Bridzelabz_softwareTesting_manual_Automation_MobileTesting/Automation_Testing_using_pom">
+        <classes>
+            <class name="MyShop_testCase.HomePageTestCase">
+                <methods>
+                    <include name="testWhatsNew"/>
+                    <include name="testWomen"/>
+                    <include name="testMen"/>
+                    <include name="testGear"/>
+                    <include name="testTraining"/>
+                    <include name="testSale"/>
+                </methods>
+            </class>
+            <class name="MyShop_testCase.LoginPageTest">
+                <methods>
+                    <include name="verifyPageTitle"/>
+                    <include name="TestCreateAnAccount"/>
+                    <include name="TestSignIn"/>
+                </methods>
+            </class>
+            <class name="MyShop_testCase.Test_Luma_Home_Page">
+                <methods>
+                    <include name="TestPageTitle"/>
+                    <include name="TestLogo"/>
+                    <include name="TestSigninPage_navigation"/>
+                </methods>
+            </class>
+            <class name="MyShop_testCase.registration_page_TestCases">
+                <methods>
+                    <include name="verifyPageTitle"/>
+                    <include name="TestCreatenewAccount"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,16 @@
+com\example\MyShop_Pages\Training.class
+com\example\MyShop_Pages\Luma_Home_Page.class
+com\example\MyShop_Pages\WhatsnewPage.class
+com\example\Base_class\TestBase.class
+com\example\MyShop_Pages\Women.class
+com\example\MyShop_Pages\HomePage.class
+com\example\MyShop_Pages\Gear.class
+com\example\Log4j\Log4jUtil.class
+com\example\MyShop_Pages\Sale.class
+com\example\TestNgLiseners\TestNGlisners.class
+com\example\DataDriven\ReadDataFromFile.class
+com\example\MyShop_Pages\LoginPage.class
+com\example\MyShop_Pages\ForgotPassword.class
+com\example\MyShop_Pages\MyAccount.class
+com\example\MyShop_Pages\Registrationpage.class
+com\example\MyShop_Pages\Men.class

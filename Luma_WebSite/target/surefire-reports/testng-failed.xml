@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="10" parallel="tests" name="Failed suite [MyShop Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.example.TestNgLiseners.TestNGlisners"/>
+  </listeners>
+  <test thread-count="10" parallel="tests" name="HomePageTestCase(failed)" verbose="0">
+    <classes>
+      <class name="MyShop_testCase.HomePageTestCase">
+        <methods>
+          <include name="testMen"/>
+          <include name="testWhatsNew"/>
+          <include name="setup"/>
+          <include name="testWomen"/>
+          <include name="tearDown"/>
+          <include name="testSale"/>
+          <include name="testTraining"/>
+          <include name="testGear"/>
+        </methods>
+      </class> <!-- MyShop_testCase.HomePageTestCase -->
+    </classes>
+  </test> <!-- HomePageTestCase(failed) -->
+  <test thread-count="10" parallel="tests" name="RegistrationPageTest(failed)" verbose="0">
+    <classes>
+      <class name="MyShop_testCase.registration_page_TestCases">
+        <methods>
+          <include name="TearDown"/>
+          <include name="TestCreatenewAccount"/>
+          <include name="Setup"/>
+          <include name="verifyPageTitle"/>
+        </methods>
+      </class> <!-- MyShop_testCase.registration_page_TestCases -->
+    </classes>
+  </test> <!-- RegistrationPageTest(failed) -->
+</suite> <!-- Failed suite [MyShop Test Suite] -->

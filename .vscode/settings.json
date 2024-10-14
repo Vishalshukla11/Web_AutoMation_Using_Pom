@@ -1,0 +1,20 @@
+[{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic"
+},
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run TestNG",
+            "request": "launch",
+            "mainClass": "org.testng.TestNG",
+            "args": [
+                "C:\\Users\\acer\\Desktop\\java\\Bridzelabz_softwareTesting_manual_Automation_MobileTesting\\Automation_Testing_using_pom\\testng.xml"
+            ]
+        }
+    ]
+}
+
+]
